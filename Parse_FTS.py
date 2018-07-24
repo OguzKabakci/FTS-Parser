@@ -265,6 +265,8 @@ class FTS:
         messagebox.showinfo("FTS is parsed", "XML is created.\n"
                                              "ENV is modified.")
 
+def test1():
+    print("Test 1")
 
 if __name__ == '__main__':
     screen = FTS()
